@@ -22,3 +22,9 @@
 - Custom js build script
 - jquery 
 - highlight.js
+
+
+# Text Analyzer
+
+[Guide](http://sanjaymeena.io/tech/javascript/text_analyzer_google_chrome_extension/)
+[Github](https://github.com/sanjaymeena/textanalyzer-chrome-extension)
